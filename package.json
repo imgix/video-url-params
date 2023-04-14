@@ -1,0 +1,21 @@
+{
+  "name": "video-url-params",
+  "version": "11.13.1",
+  "description": "Organized, machine-friendly documentation of Video API parameters",
+  "main": "dist/manifest.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imgix/video-url-params"
+  },
+  "author": "imgix",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/imgix/video-url-params/issues"
+  },
+  "homepage": "https://github.com/imgix/video-url-params",
+  "devDependencies": {
+  }
+}
